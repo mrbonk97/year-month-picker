@@ -21,7 +21,7 @@ export default function Demo() {
 
 ## Documentation
 
-Visit - to view the documentation.
+Visit https://year-month-picker.vercel.app/ to view the documentation.
 
 ## API Reference
 
