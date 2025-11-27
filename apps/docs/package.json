@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "eslint"
   },
+  "resolutions": {
+    "year-month-picker": "workspace:*"
+  },
   "dependencies": {
     "@radix-ui/react-popover": "^1.1.15",
     "@radix-ui/react-slot": "^1.2.4",
